@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+#box{
+	width:200px;
+	height:200px;
+	background-color:lightblue;
+	border:2px solid black;
+	margin:auto;
+}
+
+#text{
+	color:purple;
+	text-align:center;
+	padding:60px;
+}
